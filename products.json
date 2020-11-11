@@ -1,0 +1,66 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Lays Chips",
+    "image": "Lays Chips.png.png",
+    "price": "20",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Nike shoes(boys)",
+    "image": "men shoes(Nike free 5).png",
+    "price": "4000",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Nike shoes(girls)",
+    "image": "g shoes.png.png",
+    "price": "3225",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Minion socks",
+    "image": "minion socks.png",
+    "price": "999",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Nike bottle",
+    "image": "nike bottle.png",
+    "price": "4495",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "Round neck T-Shirt(boys)",
+    "image": "boys tshirts.png",
+    "price": "450",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "Round neck T-Shirt(girls)",
+    "image": "t shirt girls.png",
+    "price": "600",
+    "size": "large"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "Track pants",
+    "image": "t pants.png",
+    "price": "1500",
+    "size": "large"
+  }
+]
