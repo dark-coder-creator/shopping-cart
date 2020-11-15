@@ -12,8 +12,8 @@ const MongoDbStore = require('connect-mongo')(session)
 const passport=require('passport')
 const Emitter=require('events')
 //DATABASE CONNECTION
-//const url = 'mongodb+srv://test:test@demo.vedqt.mongodb.net/pizza?retryWrites=true&w=majority';
-mongoose.connect('mongodb+srv://test:test@demo1.vedqt.mongodb.net/test?retryWrites=true&w=majority',{useNewUrlParser:true,useCreateIndex:true,useUnifiedTopology:true,useFindAndModify:true}
+
+mongoose.connect('your db url'
 );
 const connection=mongoose.connection;
 connection.once('open',()=>{
